@@ -42,7 +42,9 @@ export default function Home() {
           </div>
         </div>
 
-        <Links />
+        <div>
+          <Links />
+        </div>
 
         <div>
             <a
